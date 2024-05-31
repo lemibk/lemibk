@@ -23,7 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lemibk&show_icons=true&locale=en&layout=compact" alt="lemibk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemibk&show_icons=true&locale=en" alt="lemibk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lemibk&" alt="lemibk" /></p>
 
