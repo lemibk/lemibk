@@ -3,8 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemibk" alt="lemibk" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=lemibk&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,PHP,FLUTTER**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lemibk](https://github.com/lemibk)
