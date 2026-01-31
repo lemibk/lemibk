@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm lEMI BIDIKA</h1>
 <h3 align="center">A passionate FULL STACK developer from ETHIOPIA</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=lemibk)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
