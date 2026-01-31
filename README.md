@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm lEMI BIDIKA</h1>
 <h3 align="center">A passionate FULL STACK developer from ETHIOPIA</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemibk" alt="lemibk" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" alt="lemibk" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
